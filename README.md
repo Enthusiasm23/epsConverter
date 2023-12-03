@@ -1,6 +1,6 @@
 # EPS Converter Script
 
-This Python script converts EPS files to various formats using Ghostscript.
+A versatile script for converting EPS files to various image formats using Ghostscript.
 
 ## Getting Started
 
