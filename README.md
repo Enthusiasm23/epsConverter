@@ -42,10 +42,18 @@ Alternatively, you can download the latest version of Ghostscript from the offic
 
 ### Script Installation
 
-Clone the [`repository`](https://github.com/Enthusiasm23/epsConverter.git) or download the [`script file`](https://raw.githubusercontent.com/Enthusiasm23/epsConverter/master/eps_converter.py) directly from the GitHub repository.
+Clone the repository or download the script file directly from the GitHub repository.
+
+- To clone the [`epsConverter`](https://github.com/Enthusiasm23/epsConverter.git) repository, use:
 
 ```bash
-git clone https://github.com/Enthusiasm23/eps-converter.git
+git clone https://github.com/Enthusiasm23/epsConverter.git
+```
+
+- Alternatively, to directly download the [`eps_converter.py`](./eps_converter.py), use:
+
+```bash
+wget https://raw.githubusercontent.com/Enthusiasm23/epsConverter/master/eps_converter.py
 ```
 
 ## Usage
